@@ -2,6 +2,7 @@
 Test repository for learning Git and GitHub. Following instructions provided by Steve.
 The following information was provided by Steve.
 Changing this file to have something to commit.
+Making a new change for a new branch and then commit.
 
 # test-cdss-git-training-repo #
 
