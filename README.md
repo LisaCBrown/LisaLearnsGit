@@ -26,4 +26,4 @@ If contributions were accepted, they would use the Issues or pull requests.
 [GPL 3.0](https://github.com/smalers/test-cdss-git-training-repo/blob/master/LICENSE)
 
 ## Other Notable Items ##
-Scot Loves Lisa
+Scott Loves Lisa
